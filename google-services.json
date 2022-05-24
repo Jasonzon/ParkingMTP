@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807925188866",
+    "project_id": "parking-montpellier",
+    "storage_bucket": "parking-montpellier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807925188866:android:dd064e488f5713a1c49a1b",
+        "android_client_info": {
+          "package_name": "com.company.parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807925188866-c0cmcda5c36i5ue5sco5m5e01tuu4pq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApi6T0eh_LUszumZX2inmOMsWA3NSciow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807925188866-c0cmcda5c36i5ue5sco5m5e01tuu4pq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
